@@ -24,7 +24,7 @@ net_id="000000"
 # * KR_920_923
 # * RU_864_870
 # * US_902_928
-name="EU_863_870"
+name="AU_915_928"
 
 [network_server.network_settings]
 # Enable only a given sub-set of channels
